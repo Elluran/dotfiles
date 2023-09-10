@@ -1,0 +1,15 @@
+*
+
+!.gitignore
+!i3
+!i3/*
+!polybar
+!polybar/*
+!picom
+!picom/*
+!alacritty
+!alacritty/*
+!rofi/*
+!rofi
+!dunst
+!dunst/*
